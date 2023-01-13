@@ -5,5 +5,4 @@ int main()
     scanf("%d",&year);
     a=year%100;
     printf("%0.2d",a);
-    
 }
