@@ -14,7 +14,5 @@ int main()
     else
     {
         printf("not an alphabet");
-        
     }
-    
 }
