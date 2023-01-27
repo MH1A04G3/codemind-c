@@ -10,5 +10,5 @@ int main()
     else
     {
         printf("%d",k*x+(n-k)*y);
-        }
+    }
 }
