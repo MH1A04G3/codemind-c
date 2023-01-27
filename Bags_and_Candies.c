@@ -3,8 +3,7 @@ int main()
 {
     int n,k,m;
     scanf("%d%d%d",&n,&k,&m);
-    int cpb=k*m;
-    if(n%cpb==0)
+    int cpb=k*m;if(n%cpb==0)
     {
         printf("%d",n/cpb);
     }
