@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int min,max,i;
+    int max,min,i;
     scanf("%d%d",&max,&min);
     for(i=max;i<=min;i++)
     {
